@@ -59,4 +59,4 @@ This is a potential path forward. Let's build it together.
 
 ## License
 
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.```
+This project is licensed under the **MIT License**. See the `LICENSE` file for details.
